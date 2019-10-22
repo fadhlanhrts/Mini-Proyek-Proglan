@@ -1,5 +1,5 @@
 # Tic Tac Toe
-Program ini berisikan game Tic Tac Toe yang dapat dimainkan sendiri (single-player) dan berdua (multi-player).
+Program ini berisikan game Tic Tac Toe ukuran 3x3 yang dapat dimainkan sendiri (single-player) dan berdua (multi-player).
 
 Pada tampilan menu, pengguna dapat memilih 2 pilihan permainan yaitu singleplayer dan multiplayer. Jika pengguna memilih
 menu singleplayer, menu selanjutnya akan menampilkan 2 pilihan permainan yaitu dengan tingkat kesulitan yang mudah dan yang 
